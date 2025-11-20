@@ -13,6 +13,7 @@ El repositorio evolucionará a medida que avance el curso, incorporando nuevos e
 ## 🗂 Estructura general del repositorio
 
 - **/MLLib/** — Notebooks de Spark MLlib aplicados al dataset Titanic.
+- **/taller_evaluacion_rendimiento/** — Evaluación de rendimiento de multiplicación de matrices usando Fork, OpenMP y Pthreads, con resultados comparativos entre VM Linux y macOS.
 
 ---
 
